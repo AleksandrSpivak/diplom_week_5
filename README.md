@@ -225,7 +225,7 @@ code/
 │       ├── cul/                         # Culture профіль
 │       ├── pet/                         # Pets профіль
 │       ├── irr/                         # Irrelevant профіль
-│       └── base/                        # Timeline профіль
+│       └── timeline/                    # Timeline профіль
 ├── results/
 │   └── stage_5/
 │       ├── cat/                         # Результати Catering
@@ -233,7 +233,7 @@ code/
 │       ├── cul/                         # Результати Culture
 │       ├── pet/                         # Результати Pets
 │       ├── irr/                         # Результати Irrelevant
-│       ├── base/                        # Результати Timeline
+│       ├── timeline/                    # Результати Timeline
 │       └──analyze_user_profile_stage_5.py      # CLI-скрипт
 └── app.py                                # Веб-додаток
 ```
