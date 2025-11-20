@@ -1,0 +1,185 @@
+{
+  "total_images": 125,
+  "raw_counts": {
+    "Catering": 19,
+    "Marine_Activities": 15,
+    "Cultural_Excursions": 38,
+    "Pet-Friendly Services": 10,
+    "Irrelevant": 43
+  },
+  "factual_percentages": {
+    "Catering": 15.2,
+    "Marine_Activities": 12.0,
+    "Cultural_Excursions": 30.4,
+    "Pet-Friendly Services": 8.0,
+    "Irrelevant": 34.4
+  },
+  "tags": {
+    "Catering": "User",
+    "Marine_Activities": "None",
+    "Cultural_Excursions": "Hobbyist",
+    "Pet-Friendly Services": "None"
+  },
+  "validated_tags": {
+    "Catering": "User",
+    "Marine_Activities": "None",
+    "Cultural_Excursions": "Hobbyist",
+    "Pet-Friendly Services": "None"
+  },
+  "final_percentages": {
+    "Catering": 17.6,
+    "Marine_Activities": 16.0,
+    "Cultural_Excursions": 34.4,
+    "Pet-Friendly Services": 10.4,
+    "Irrelevant": 21.6
+  },
+  "monthly_dynamics": {
+    "2024-08": {
+      "Catering": 2,
+      "Marine_Activities": 0,
+      "Cultural_Excursions": 0,
+      "Pet-Friendly Services": 2,
+      "Irrelevant": 4
+    },
+    "2024-04": {
+      "Catering": 1,
+      "Marine_Activities": 0,
+      "Cultural_Excursions": 0,
+      "Pet-Friendly Services": 0,
+      "Irrelevant": 3
+    },
+    "2024-01": {
+      "Catering": 0,
+      "Marine_Activities": 0,
+      "Cultural_Excursions": 11,
+      "Pet-Friendly Services": 1,
+      "Irrelevant": 5
+    },
+    "2024-10": {
+      "Catering": 2,
+      "Marine_Activities": 0,
+      "Cultural_Excursions": 16,
+      "Pet-Friendly Services": 0,
+      "Irrelevant": 4
+    },
+    "2024-05": {
+      "Catering": 0,
+      "Marine_Activities": 1,
+      "Cultural_Excursions": 0,
+      "Pet-Friendly Services": 1,
+      "Irrelevant": 4
+    },
+    "2025-10": {
+      "Catering": 2,
+      "Marine_Activities": 11,
+      "Cultural_Excursions": 3,
+      "Pet-Friendly Services": 0,
+      "Irrelevant": 5
+    },
+    "2024-03": {
+      "Catering": 1,
+      "Marine_Activities": 0,
+      "Cultural_Excursions": 1,
+      "Pet-Friendly Services": 1,
+      "Irrelevant": 3
+    },
+    "2024-06": {
+      "Catering": 0,
+      "Marine_Activities": 0,
+      "Cultural_Excursions": 1,
+      "Pet-Friendly Services": 1,
+      "Irrelevant": 2
+    },
+    "2024-12": {
+      "Catering": 2,
+      "Marine_Activities": 0,
+      "Cultural_Excursions": 0,
+      "Pet-Friendly Services": 0,
+      "Irrelevant": 0
+    },
+    "2024-02": {
+      "Catering": 1,
+      "Marine_Activities": 1,
+      "Cultural_Excursions": 1,
+      "Pet-Friendly Services": 0,
+      "Irrelevant": 1
+    },
+    "2025-01": {
+      "Catering": 2,
+      "Marine_Activities": 0,
+      "Cultural_Excursions": 2,
+      "Pet-Friendly Services": 0,
+      "Irrelevant": 1
+    },
+    "2024-11": {
+      "Catering": 0,
+      "Marine_Activities": 0,
+      "Cultural_Excursions": 1,
+      "Pet-Friendly Services": 1,
+      "Irrelevant": 1
+    },
+    "2024-09": {
+      "Catering": 0,
+      "Marine_Activities": 1,
+      "Cultural_Excursions": 0,
+      "Pet-Friendly Services": 0,
+      "Irrelevant": 3
+    },
+    "2025-06": {
+      "Catering": 0,
+      "Marine_Activities": 0,
+      "Cultural_Excursions": 2,
+      "Pet-Friendly Services": 0,
+      "Irrelevant": 2
+    },
+    "2025-09": {
+      "Catering": 0,
+      "Marine_Activities": 0,
+      "Cultural_Excursions": 0,
+      "Pet-Friendly Services": 0,
+      "Irrelevant": 2
+    },
+    "2025-04": {
+      "Catering": 1,
+      "Marine_Activities": 0,
+      "Cultural_Excursions": 0,
+      "Pet-Friendly Services": 0,
+      "Irrelevant": 1
+    },
+    "2025-08": {
+      "Catering": 1,
+      "Marine_Activities": 0,
+      "Cultural_Excursions": 0,
+      "Pet-Friendly Services": 1,
+      "Irrelevant": 1
+    },
+    "2025-07": {
+      "Catering": 2,
+      "Marine_Activities": 0,
+      "Cultural_Excursions": 0,
+      "Pet-Friendly Services": 0,
+      "Irrelevant": 0
+    },
+    "2025-03": {
+      "Catering": 2,
+      "Marine_Activities": 0,
+      "Cultural_Excursions": 0,
+      "Pet-Friendly Services": 0,
+      "Irrelevant": 1
+    },
+    "2025-02": {
+      "Catering": 0,
+      "Marine_Activities": 1,
+      "Cultural_Excursions": 0,
+      "Pet-Friendly Services": 0,
+      "Irrelevant": 0
+    },
+    "2024-07": {
+      "Catering": 0,
+      "Marine_Activities": 0,
+      "Cultural_Excursions": 0,
+      "Pet-Friendly Services": 2,
+      "Irrelevant": 0
+    }
+  }
+}
