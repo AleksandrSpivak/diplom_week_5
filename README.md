@@ -158,7 +158,7 @@ results/stage_5/{profile}/
 | Culture | Fast | data/stage_5/cul | results/stage_5/cul |
 | Pets | Fast | data/stage_5/pet | results/stage_5/pet |
 | Irrelevant | Fast | data/stage_5/irr | results/stage_5/irr |
-| Timeline | Fast | data/stage_5/base | results/stage_5/base |
+| Timeline | Fast | data/stage_5/timeline | results/stage_5/timeline |
 
 ### 5.3. Інтерфейс
 
